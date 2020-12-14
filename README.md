@@ -1,3 +1,3 @@
 # hello-world
  Hi Humans!
- I began to learing code!
+ I began to learning programming!
